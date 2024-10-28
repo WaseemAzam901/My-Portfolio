@@ -12,6 +12,7 @@ export default function Home() {
       <FloatingNav navItems={[{name: "home", link: "/", icon: <FaHome />}]} />
       <Hero />
       <Grid />
+      <div className="mt-[50rem]">waseem</div>
       </div>
     </main>
     </>
